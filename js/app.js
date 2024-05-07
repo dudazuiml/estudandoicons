@@ -1,0 +1,1 @@
+let icone = document.getElementById("icone")
